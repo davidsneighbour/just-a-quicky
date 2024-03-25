@@ -1,6 +1,6 @@
 {
   "name": "just-a-quicky",
-  "version": null,
+  "version": "2024.0.0",
   "description": "Quickies, POCs, and other stuff.",
   "main": "index.js",
   "type": "module",
