@@ -1,8 +1,9 @@
 {
   "name": "just-a-quicky",
-  "version": "2024.1",
+  "version": "2024.0",
   "description": "Quickies, POCs, and other stuff.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "release": "commit-and-tag-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" --sign && git push --follow-tags origin main",
     "release:major": "commit-and-tag-version --release-as major -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" --sign && git push --follow-tags origin main",
