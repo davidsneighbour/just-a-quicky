@@ -1,14 +1,19 @@
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+>
+> Just a note about something that might be useful to know.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+>
+> Tips and tricks to help you make the most of a feature.
 
 > [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+>
+> Important information about a feature or concept.
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+>
+> Be warned about something that could be dangerous.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+>
+> Now this could be risky, so be careful and proceed with caution.

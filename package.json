@@ -1,0 +1,16 @@
+{
+  "name": "just-a-quicky",
+  "version": "2024.1",
+  "description": "Quickies, POCs, and other stuff.",
+  "main": "index.js",
+  "scripts": {
+    "release": "commit-and-tag-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" --sign && git push --follow-tags origin main",
+    "release:major": "commit-and-tag-version --release-as major -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" --sign && git push --follow-tags origin main",
+    "release:minor": "commit-and-tag-version --release-as minor -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" --sign && git push --follow-tags origin main"
+  },
+  "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@davidsneighbour/release-config": "^2024.0.3"
+  }
+}
