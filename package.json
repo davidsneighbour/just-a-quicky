@@ -12,6 +12,6 @@
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
   "license": "MIT",
   "dependencies": {
-    "@davidsneighbour/release-config": "^2024.3.32"
+    "@davidsneighbour/release-config": "^2024.3.43"
   }
 }
