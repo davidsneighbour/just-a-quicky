@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2025.0.0](https://github.com/davidsneighbour/just-a-quicky/compare/v2024.0.1...v2025.0.0) (2025-04-02)
+
+
+### Features
+
+* **node:** add script to test current node version and warn/fail if not met ([cd8a1ab](https://github.com/davidsneighbour/just-a-quicky/commit/cd8a1ab77df902ca00b96992d249a21e070eccc3))
+* **node:** add script to test new(is) cli output formatting ([f43c170](https://github.com/davidsneighbour/just-a-quicky/commit/f43c1707ef5bc1e8d67fb5d22f72953bfe9969b6))
+
 ## 2024.0.1 (2024-03-25)
 
 

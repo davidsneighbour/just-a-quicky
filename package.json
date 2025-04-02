@@ -1,6 +1,6 @@
 {
   "name": "just-a-quicky",
-  "version": "2024.0.1",
+  "version": "2025.0.0",
   "description": "Quickies, POCs, and other stuff.",
   "main": "index.js",
   "type": "module",
@@ -12,6 +12,6 @@
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
   "license": "MIT",
   "dependencies": {
-    "@davidsneighbour/release-config": "^2025.0.2"
+    "@davidsneighbour/release-config": "2025.1.1"
   }
 }
